@@ -72,5 +72,5 @@ public class AD1_2021_1 {
 
 ## Considerações importantes
 
-..* Utilizar Java versão 8
-..* Programas com erro de interpretação não serão corrigidos.
+* Utilizar Java versão 8
+* Programas com erro de interpretação não serão corrigidos.
