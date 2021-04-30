@@ -7,6 +7,7 @@ Implementar uma rede social minimalista, que permita a criação de postagens e 
 
 
 ## Código Base
+
 ```java
 public class AD1_2021_1 {
   public static void main(String[] args) {
@@ -42,4 +43,25 @@ public class AD1_2021_1 {
 }
 ```
 
+## Exigências
+
+1. Crie todas as classes utilizadas no código acima, para que este rode sem alterações.
+2. Utilizar conceitos de OO sempre que possível.
+3.  Limite cada classe para tratar somente o que diz respeito a esta.
+
+## Resultado obrigatório
+
+```java
+  
+  Timeline:
+  Fulano: 
+  Bom dia!: 1 curtidas
+  Boa tarde!: 1 curtidas
+  Ciclano: 
+  Bom noite!: 2 curtidas
+  Beltrano: 
+  Post mais curtido de um usuário:Boa noite!: 2 curtidas
+  Quem curtiu: Beltrano Fulano 
+  
+```
 
