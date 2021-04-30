@@ -65,3 +65,12 @@ public class AD1_2021_1 {
   
 ```
 
+## Observações
+
+1. Na implementação do método retornaPostMaisCurtido(), para o caso de empate, ou seja, mais de um post com o mesmo número de curtidas, pode-se retornar qualquer dos posts.
+2. Caso não haja postagens para algum usuário, o método retornaPostMaisCurtido() pode retornar o valor null. Entretanto, como essa situação não foi tratada na main(), uma vez que a implementação é minimalista, esta situação não precisa ser considerada.
+
+## Considerações importantes
+
+..* Utilizar Java versão 8
+..* Programas com erro de interpretação não serão corrigidos.
