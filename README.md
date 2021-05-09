@@ -74,3 +74,7 @@ public class AD1_2021_1 {
 
 * Utilizar Java versão 8
 * Programas com erro de interpretação não serão corrigidos.
+
+## Resultado dos testes unitários
+
+__Em desenvolvimento...__
